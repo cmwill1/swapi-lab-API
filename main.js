@@ -1,7 +1,7 @@
 console.log('hello')
 
 // const getResidentsBtn  = document.querySelector('#resident-btn')
-const getResidentsBtn = document.getElementById("resident-btn");
+const getResidentsBtn = document.getElementById("resident");
 
 const getResidents = () => {
   console.log("button clicked");
